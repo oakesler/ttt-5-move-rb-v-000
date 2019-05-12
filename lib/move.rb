@@ -13,6 +13,6 @@ def input_to_index(input)
 end
 
 
-def move (array, index)
+def move(array, index)
   array[index] = "X"
 end  
