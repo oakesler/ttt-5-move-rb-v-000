@@ -14,4 +14,4 @@ indexy = input_to_index(input)
 
 boardy = move(board, indexy)
 
-board = display_board(boardy)
+puts display_board(boardy)
