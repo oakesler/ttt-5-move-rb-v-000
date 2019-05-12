@@ -10,7 +10,7 @@ end
 
 def input_to_index(input)
   n = input.to_i 
-  index = n - 1
+  n - 1
 end
 
 def move(array, index, value = "X")
