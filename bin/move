@@ -12,4 +12,4 @@ input = gets.strip
 
 indexy = input_to_index(input)
 
-move(array, indexy)
+move(board, indexy)
